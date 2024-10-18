@@ -1,1 +1,1 @@
-Templates
+i18n
